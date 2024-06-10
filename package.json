@@ -18,7 +18,7 @@
     "prepublishOnly": "yarn build"
   },
   "peerDependencies": {
-    "emoji-mart": "^5.2",
+    "emoji-mart": "git+https://github.com/Slime-Inc7/emoji-mart.git",
     "react": "^16.8 || ^17 || ^18"
   },
   "files": [
